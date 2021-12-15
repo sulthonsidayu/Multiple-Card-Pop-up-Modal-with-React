@@ -1,0 +1,87 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+
+/* The Modal (background) */
+.modal {
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: transparent;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 70%;
+  height: auto;
+  
+}
+
+/* The Close Button */
+.close {
+  color: red;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.kartu {
+    background-image: linear-gradient(rgba(255,255,255,0.75), rgba(255,255,255,0.75)),url(img/peta2.jpg);
+    background-position: center;
+    background-blend-mode: lighten;
+    width: 550px;
+    height: 300px;
+    padding: 2rem;
+    border-radius: 2rem;
+    border-style:solid;
+    border-color:grey;
+    border-width:0.5rem;
+    margin: 5rem;
+    position:relative;
+    
+}
+
+.kartu h2{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.8rem;
+    font-weight: bold;
+    position:relative;
+    left: 2.3rem;
+    top:-2.5rem;
+}
+
+.kartu table{
+    position:relative;
+    left: 11rem;
+    top:-0.5rem;
+    
+}
+.kartu tr, td {
+    padding: 12px;
+}
+
+.foto {
+    position: relative;
+    left: -0.1rem;
+    top:-15rem;
+}
+.Tabel{
+    font-size:17px;
+    font-family:'Source Sans Pro', sans-serif;
+    font-weight:bold;
+}

@@ -1,0 +1,102 @@
+.LabelJudul{
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align:center;
+  width:31%;
+  background-color: #04AA6D;
+  color:white;
+  padding-top:10px;
+  padding-bottom:10px;
+  border-radius:0.5rem;
+}
+.Label{
+  font-family: 'Source Sans Pro', sans-serif;
+  color:black;
+  font-weight: bold;
+  font-size:18px;
+}
+.LabelKelamin{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 16px;
+}
+.KotakInput{
+  width:30%;
+  padding:6px 3px;
+  margin-top:10px;
+  margin-bottom: 10px;
+  border-radius: 0.5rem;
+  border-style: solid;
+  border-color:#04AA6D;
+}
+.JenisKelamin{
+  width:30%;
+  padding:6px 3px;
+  margin-top:10px;
+  margin-bottom: 10px;
+  border-radius: 0.5rem;
+  border-style: solid;
+  border-color: #04AA6D
+}
+.Status{
+  width:30.6%;
+  padding:8px 3px;
+  margin-top:10px;
+  margin-bottom: 10px;
+  background-color:#04AA6D;
+  border-radius: 0.5rem;
+  border-style: solid;
+  border-color: whitesmoke;
+  color:white;
+}
+.FotoProfil{
+  width:30%;
+  padding:8px 3px;
+  margin-top:10px;
+  margin-bottom: 10px;
+  background-color:#04AA6D;
+  border-radius: 0.5rem;
+  border-style: solid;
+  border-color: whitesmoke;
+  color:white;
+}
+.Cetak{
+  background-color:#04AA6D;
+  color:white;
+  margin-right:30%;
+  margin-left: 10.5%;
+  width:10%;
+  border-radius:0.5rem;
+  border-style:solid;
+  border-color:white;
+  border-width:2px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size:14px;
+  text-align:center;
+}
+.Simpan{
+  background-color:grey;
+  color:white;
+  margin-left: 10.5%;
+  margin-right:30%;
+  width:10%;
+  border-radius:0.5rem;
+  border-style:solid;
+  border-color:white;
+  border-width:2px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size:14px;
+  text-align:center;
+}
+.Reset{
+  background-color:red;
+  color:white;
+  margin-left: 10.5%;
+  margin-right:30%;
+  width:10%;
+  border-radius:0.5rem;
+  border-style:solid;
+  border-color:white;
+  border-width:2px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size:14px;
+  text-align:center;
+}
